@@ -1,6 +1,6 @@
 # Docker Build Arg Example
 
-I created this example to demonstrate how environment variables can be made available to scripts within Docker builds via build args.
+I created this example to demonstrate how environment variables can be made available to scripts within Docker builds via [build arguments](https://docs.docker.com/engine/reference/builder/#arg).
 
 ## Experiments
 
